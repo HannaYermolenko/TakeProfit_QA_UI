@@ -23,7 +23,7 @@ Allure CLI installed for report generation
 Installation
 Clone the repository:
 
-git clone https://github.com/lgnc7e/TakeProfit_QA.git
+git clone https://github.com/HannaYermolenko/TakeProfit_QA_UI
 cd TakeProfit_QA
 
 Build the project:
